@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1416860684 source:c:\users\matìj\desktop\vsc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1417518726 source:c:\users\student\desktop\matej\vsc with some bugs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1417525952 source:c:\users\matìj\desktop\matej\vsc with some bugs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1417528758 source:f:\posledni verze programu\vsc stable\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
